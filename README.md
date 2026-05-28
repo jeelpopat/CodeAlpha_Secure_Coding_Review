@@ -6,7 +6,7 @@
 **Frameworks Referenced:** OWASP Top 10 (2026 Edition)
 
 ## 1. Executive Summary
-[cite_start]A comprehensive secure code review was conducted on the "CustomerPortal" application to identify security vulnerabilities[cite: 35]. The audit revealed high and medium-severity issues, including SQL Injection and Broken Access Control.
+A comprehensive secure code review was conducted on the "CustomerPortal" application to identify security vulnerabilities. The audit revealed high and medium-severity issues, including SQL Injection and Broken Access Control.
 
 ## 2. Findings & Remediation
 
